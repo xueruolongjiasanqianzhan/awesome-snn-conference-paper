@@ -16,6 +16,7 @@
       <!-- 2026 -->
     <li><a href="#2026">2026</a>
       <ul>
+        <li><a href="#aaai-2026">AAAI</a></li>
         <li><a href="#iclr-2026">ICLR</a></li>
       </ul>
     </li>
@@ -150,6 +151,88 @@
 
 ---
 # 2026
+
+## AAAI-2026
+- Spiking Heterogeneous Graph Attention Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39068)] [[code](https://github.com/junjianli106/MiCo)]
+
+- Spikingformer: A Key Foundation Model for Spiking Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37207)] [[code](https://github.com/Auroral703/PerTouch)]
+
+- LAS: Loss-less ANN-SNN Conversion for Fully Spike-Driven Large Language Models [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37151)] [[code](https://github.com/hacilab/P3HF)]
+
+- A Closer Look at Knowledge Distillation in Spiking Neural Network Training [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37175)] [[code](https://kaist-viclab.github.io/mobgs-site/)]
+
+- GT-SNT: A Linear-Time Transformer for Large-Scale Graphs via Spiking Node Tokenization [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38667)] [[code](https://github.com/Yasoz/PLGF)]
+
+- Training-Free ANN-to-SNN Conversion for High-Performance Spiking Transformers [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37195)]
+
+- Ultralight Polarity-Split Neuromorphic SNN for Event-Stream Super-Resolution [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38099)]
+
+- Temporal Dynamics Enhancer for Directly Trained Spiking Object Detectors [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37178)]
+
+- I2E: Real-Time Image-to-Event Conversion for High-Performance Spiking Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37179)] [[code](https://github.com/Ruichen0424/I2E)]
+
+- Activation-wise Propagation: A One-Timestep Strategy for Spiking Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37187)]
+
+- Timestep-Compressed Attack on Spiking Neural Networks Through Timestep-Level Backpropagation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37479)]
+
+- Exploring the Potentials of Spiking Neural Networks for Image Deraining [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37295)]
+
+- Boosting the Robustness-Accuracy Trade-off of SNNs by Robust Temporal Self-Ensemble [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39833)]
+
+- Spike Imaging Velocimetry: Dense Motion Estimation of Fluids Using Spike Streams [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37133)]
+
+- TDSNNs: Competitive Topographic Deep Spiking Neural Networks for Visual Cortex Modeling [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37208)]
+
+- S³: Spiking Neurons as an Isolating Segmenter for Brain Signal Decoding [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38869)] [[code](https://github.com/MChen808/S3)]
+
+- Dynamic Weight Adaptation in Spiking Neural Networks Inspired by Biological Homeostasis [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/40146)] [[code](https://github.com/Zyunduo/AAAI_2026_DWAM)]
+
+- MPD-SGR: Robust Spiking Neural Networks with Membrane Potential Distribution-Driven Surrogate Gradient Regularization [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37166)]
+
+- SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37194)] [[code](https://github.com/JackieWang9811/SCommander)]
+
+- DS-ATGO: Dual-Stage Synergistic Learning via Forward Adaptive Threshold and Backward Gradient Optimization for Spiking Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37165)] [[code](https://github.com/jqjiang1999/DS-ATGO)]
+
+- Oligodendrocyte-Driven Spiking Neural Model [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39306)]
+
+- Parallel Training Time-to-First-Spike Spiking Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37149)] 
+
+- Stabilizing Spiking Neurons Through Biologically Inspired Polarization [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39435)]
+
+- Spike Stream Memory Transfer for Dynamic Scene Reconstruction [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37364)]
+
+- Spatial-Frequency Spiking Neural Network for Underwater Object Detection [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39109)]
+
+- Towards Training-Free and Accurate ANN-to-SNN Conversion via Activation-Aware Redistribution [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37148)]
+
+- SNN-Driven Event-Based Flow and Rotation Estimation with SO(3) Refinement [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37877)]
+
+- Spiking-Aided Neural Architecture for Efficient and Robust WiFi Sensing [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39589)]
+
+- Bi-Spectrum Distillation: Addressing Spectral Mismatch in ANN-SNN Knowledge Transfer [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/40085)]
+
+- HypoxSpike: Ternary Spiking Neural Network for Opioid Overdose Detection [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/41237)]
+
+- SFedHIFI: Fire Rate-Based Heterogeneous Information Fusion for Spiking Federated Learning [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39787)]
+
+- HardF-SNN: Hardware-Friendly Quantization for Spiking Neural Networks with Efficient Integer-Arithmetic-Only Inference [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37174)]
+
+- Generalized Threshold Optimization with Harmony Multi-Threshold Neurons for Accurate ANN-to-SNN Conversion [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37206)]
+
+- SpikingIR: A Novel Converted Spiking Neural Network for Efficient Image Restoration [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37769)]
+
+- Pseudo-Spiking Neurons: A Noise-Based Training Framework for Heterogeneous-Latency Spiking Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/40086)] [[code](https://github.com/deng-ai-lab/PseudoSNN)]
+
+- BulletTime4D: Towards High Spatio-Temporal Resolution Dynamic Scene Rendering via Spike-Guided Stereo Vision [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37263)]
+
+- HLML-SNN：Fast Continual Learning in Spiking Neural Networks Achieved via Hebbian Learning-Driven Meta-Learning [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39942)] [[code](https://github.com/JiangshuaiXu/HLML_SNN)]
+
+- Firing Bits Where It Matters: Spiking-Guided Just Recognizable Distortion Modeling for Machine-Centric Video Coding [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38935)]
+
+- Optimization Method for Surrogate Function in Spiking Neural Networks Based on Membrane Potential Distribution [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39769)]
+
+- Robust Noise Modeling for Spike Camera via Time-Interval Quantification and Spike-DSLR Multimodal Dataset in Low-Light Imaging [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37252)]
+
 
 ## ICLR-2026
 - Random Spiking Neural Networks are Stable and Spectrally Simple [[paper](https://openreview.net/attachment?id=Ochp5HHp46&name=pdf)]
